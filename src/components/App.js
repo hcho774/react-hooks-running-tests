@@ -6,7 +6,7 @@ function App() {
   return <div className="App">
     learn react!
     <Header/>
-    <Article />
+    <Article/>
   </div>;
 }
 
